@@ -1,0 +1,1 @@
+This folder contains the backend Node.js/Express API for Tech Store.
