@@ -1,0 +1,1 @@
+This folder contains the frontend React/Vite application for Tech Store.
